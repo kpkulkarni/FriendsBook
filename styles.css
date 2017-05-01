@@ -1,0 +1,136 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	
+	margin-top: 0px;
+	font-family : sans-serif;	
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color:red;
+}
+
+.container {
+	width: 1020px;
+	margin-left : auto;
+	margin-right:auto;
+	display:float; 
+
+}
+
+.textcenter {
+	text-align: center;
+}
+
+.main > a {
+	color: black;
+}
+
+.bluebutton {
+	height: 40px;
+	width: 150px;
+	color: white;
+	background-color:#4286f4;
+	font-weight: bold;
+	float: right;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+.blueheading {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: #4286f4;
+}
+
+.links {
+	display: inline;
+	float: right;
+}
+
+.navigation {
+	background-color: #4286f4;
+	color: white; 
+}
+
+.navigation li {
+	list-style: none;
+	display: inline;
+	margin-left: 20px;
+	margin-right: 20px;
+
+
+}
+
+.navigation > h1 {
+	color: white;
+	font-size: 32px;
+	font-weight: bold;
+	display: inline;
+
+}
+
+.welcome {
+	color: #4286f4;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.main {
+	margin-top: 20px;
+
+}
+
+#postinput{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.postform {
+	width: 750px;
+	margin-bottom: 50px;
+
+}
+
+.poststream h3 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: #4286f4;
+
+}
+
+.poststream > p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+
+.comment
+{
+	background-color: #e2dfd5;
+	height: auto;
+	width: auto;
+	padding: 10px;
+}
+
+.commentbutton {
+	height: 30px;
+	width: auto;
+	background-color: #b7b6b3;
+}
+
+.commentfield {
+	height: 30px;
+}
+
+
+
